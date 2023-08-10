@@ -1,0 +1,80 @@
+a{
+ color: white;
+}
+body{
+  background-image: url(viciousclass.jpg);
+  background-size: cover;
+  background-attachment:fixed;
+}
+.name{
+  color: rgb(255, 255, 255);
+  margin-top: 15px;
+  margin-left: 20px;
+  font-size: 53px;
+  font: bold;
+}
+.myimg{
+  cursor: pointer;
+  width: 160px;
+  height: 160px;
+  margin-top: 30px;
+  transition: 0.4s ease;
+}
+.myh1{
+  cursor: pointer;
+  color:black;
+  font-size: 43px;
+  font: bold;
+  margin: 10px;
+  transition: 0.4s ease;
+}
+.myh5{
+  cursor: pointer;
+  color:black;
+  font-size: 25px;
+  margin: 10px;
+  transition: 0.4s ease;
+}
+.myimg:hover{
+  width: 175px;
+  height: 175px;
+}
+.myh1:hover{
+  font-size: 48px;
+  color:white;
+}
+.myh5:hover{
+  font-size: 30px;
+  color:white;
+}
+.meh1{
+  color:black;
+  margin-top: 410px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  padding: 10px;
+}
+.card-img-top{
+  cursor: pointer;
+  width: 260px;
+  border-radius: 15px;
+}
+.navbar-nav li a{
+  border: 1px solid white;
+  border-radius: 10px;
+  transition: 0.7s ease;
+  margin: 15px;
+}
+.navbar-nav li a:hover{
+ background-color: rgb(0, 0, 0);
+ color: white;
+}
+section{
+  background-color:white;
+}
+.card-group{
+  margin: 25px;
+}
+.pp{
+  font-weight: bold;
+}
